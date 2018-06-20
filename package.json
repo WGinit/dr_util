@@ -1,0 +1,23 @@
+{
+  "name": "dr_util",
+  "version": "1.0.0",
+  "description": "Common function package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "dr_util"
+  ],
+  "author": "wginit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WGinit/util/issues",
+    "email" : "wginit@yeah.net"
+  },
+  "homepage": "https://github.com/WGinit/util#readme"
+}
