@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/WGinit/dr_util.git"
   },
   "keywords": [
     "dr_util"
