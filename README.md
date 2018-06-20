@@ -27,3 +27,9 @@
 > * GetRequest      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;截取URL参数保存至对象
 > * jsonp           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jsonp 跨域封装
 > * getUrlParam     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获取url中指定参数的值
+
+#### 安装使用
+> * npm install dr_util --save  &nbsp;&nbsp;&nbsp;&nbsp; (或者使用cnpm)
+> * const dr = require('./dr_util') 或者 import dr from 'dr_util'
+> * 例如判断当前浏览器环境是否是微信端
+> * dr.isWeiXin() &nbsp;&nbsp;&nbsp;&nbsp; // flase 不是微信端
